@@ -1,0 +1,11 @@
+# Python 가상환경
+venv/
+*.pyc
+__pycache__/
+
+# Google Cloud 서비스 계정 키 (!!!)
+*.json
+gcp-key.json
+
+# Streamlit 비밀 파일
+.streamlit/secrets.toml
